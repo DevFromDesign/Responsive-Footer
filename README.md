@@ -8,6 +8,6 @@ This repository contains a responsive footer designed using HTML and CSS. It inc
 - **Email Subscription Form:** A simple subscription form to collect user emails.
 - **Responsive Design:** Fully responsive layout that adapts to different screen sizes, ensuring the footer looks great on all devices.
 - **Customizable:** Easily adjustable CSS to change colors, fonts, or layout for your project needs.
-- 
+  
 ## Demo
 For a live preview of the responsive footer,click here to view the demo(https://shorturl.at/gGODd.
